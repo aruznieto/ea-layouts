@@ -1,0 +1,16 @@
+.DS_store
+*/.DS_store
+*/.idea
+*/.vscode
+**/.texpadtmp
+**/file.aux
+**/file.log
+**/file.pdf
+**/file.synctex.gz
+**/file.toc
+**/file.out
+**/file.bbl
+**/file.blg
+**/file.run.xml
+**/Portada.psd
+**/file-blx.bib
